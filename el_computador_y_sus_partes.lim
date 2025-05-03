@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.4">
+    <config>
+        <recursos>recursos</recursos>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>000000</corfondo>
+        <corbanda>80FFFF</corbanda>
+        <cornavega>00FF00</cornavega>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <titulo>Partes del computador</titulo>
+        <autor>Alvaro Aguirre</autor>
+        <informe>1</informe>
+        <botonson>1</botonson>
+        <maximizar>1</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >Excelente</correcto>
+        <incorrecto son="" modo="1" >Vamos a trabajar más</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">parte_1_verdad.png</imaxe>
+        </paxina>
+        <paxina id="2" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">parte_1.png</imaxe>
+        </paxina>
+        <paxina id="3" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">parte_3.png</imaxe>
+        </paxina>
+        <paxina id="4" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">parte_4.png</imaxe>
+        </paxina>
+        <paxina id="5" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">parte_5.png</imaxe>
+        </paxina>
+        <paxina id="6" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">parte_6.png</imaxe>
+        </paxina>
+        <paxina id="7" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">parte_7.png</imaxe>
+        </paxina>
+        <paxina id="8" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">parte_8.png</imaxe>
+        </paxina>
+        <paxina id="9" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">actividades.png</imaxe>
+        </paxina>
+        <paxina id="10" >
+              <tipo>3</tipo>
+              <imaxe>pngwing.com_(4).png</imaxe>
+              <imfondo  trans="20">pngwing.com_(4).png</imfondo>
+              <filas>3</filas>
+              <columnas>3</columnas>
+              <reixa>1</reixa>
+            <forma>0</forma>
+        </paxina>
+        <paxina id="11" >
+              <tipo>51</tipo>
+              <valor>4</valor>
+              <peza imaxe="pngwing.com_(2).png">1</peza>
+              <peza imaxe="pngwing.com_(6).png">2</peza>
+              <forma>1</forma>
+              <cadro>1</cadro>
+        </paxina>
+        <paxina id="12" >
+              <tipo>11</tipo>
+              <modo>3</modo>
+              <cousa nome="Teclado">pngwing.com_(2).png</cousa>
+              <cousa nome="Raton">pngwing.com_(3).png</cousa>
+              <cousa nome="Portatil">pngwing.com_(5).png</cousa>
+              <cousa nome="Impresora">pngwing.com_(4).png</cousa>
+              <cousa nome="Escaner">pngwing.com_(7).png</cousa>
+        </paxina>
+        <paxina id="13" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">robotito.png</imaxe>
+        </paxina>
+    </libro>
+</lim>
